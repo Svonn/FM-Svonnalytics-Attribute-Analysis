@@ -1,0 +1,15 @@
+/* Slider Track Color */
+.rc-slider-track {
+    background-color: rgba(54, 162, 235, 0.75);
+}
+
+/* Slider Handle Color */
+.rc-slider-handle {
+    border: solid 2px rgba(54, 162, 235, 0.9); /* Slightly less transparent than the track */
+    background-color: white;
+}
+
+/* Slider Handle: Focus State */
+.rc-slider-handle:active {
+    border: solid 2px rgba(54, 162, 235, 1); /* Even less transparent when active */
+}
