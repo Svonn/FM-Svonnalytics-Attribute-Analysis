@@ -5,6 +5,8 @@ In the recent iterations of Football Manager, there has been much discussion abo
 I was not able to find anyone who did a thorough analysis on this issue, as most posts about this issue only scraped the surface.
 This is why I've ran a test save with >100k players in the DB and created a Dash-based dashboard to analyse the data. 
 
+I will soon(TM) update this README with my findings and some more info about the test setup and how to customize this dashboard for your own experiments.
+
 ![Dashboard Screenshot](images/showcase.jpg)
 
 
@@ -19,7 +21,7 @@ This is why I've ran a test save with >100k players in the DB and created a Dash
 
 ### Installation
    **Option 1: Use the installer**
-   Let this installer do all the work: [Download svonnalytics_attribute_analysis.bat](https://github.com/Svonn/FM-Svonnalytics-Dashboard/releases/download/Alpha-1.0/svonnalytics_dashboard.bat)
+   Let this installer do all the work: [Download svonnalytics_attribute_analysis.bat](https://github.com/Svonn/FM-Svonnalytics-Attribute-Analysis/releases/download/Alpha-1.0/svonnalytics_attribute_analysis.bat)
 
    **Option 2: Clone the Repository** 
    Clone the repo, install the requirements and run `app.py`.
